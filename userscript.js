@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Airbnb Trash Listings Hider with Hide Button
-// @namespace    https://raw.githubusercontent.com/Mayurifag/airbnb-trash-listings-hide-userscript/main/userscript.js
+// @namespace    https://raw.githubusercontent.com/focusshifter/airbnb-trash-hider/refs/heads/main/userscript.js
 // @version      2024.11.10
 // @description  Hide listings with low rating and low number of reviews on Airbnb search page. Adds a "hide" button to toggle visibility and saves the state. Based on https://github.com/Mayurifag/airbnb-trash-listings-hide-userscript
 // @author       focusshifter, Mayurifag
